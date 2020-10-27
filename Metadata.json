@@ -1,0 +1,20 @@
+{
+    "Author": "Hemal Ekanayake",
+    "ContentSize": 1157,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/configure-azure-backup-using-powershell/master/AzureBackup.ps1",
+    "DownloadCount": 1441,
+    "Id": "Configure-Azure-Backup-ce5117b1",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 277,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-7-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will help you to configure your Azure hosted VM backups through PowerShell.",
+    "Title": "Configure Azure Backup - using PowerShell",
+    "UpdatedDate": "2018-7-4T00:00:00",
+    "Url": "https://github.com/azureautomation/configure-azure-backup-using-powershell",
+    "UserTags": "azure backup, Microsoft Azure Backup, Azure backup powershell"
+}
